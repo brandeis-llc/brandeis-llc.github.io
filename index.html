@@ -1,0 +1,86 @@
+---
+layout: page
+title: Brandeis LLC
+subtitle: Brandeis Lab for Linguistics and Computation
+---
+
+
+The Brandeis Lab for Linguistics and Computation (LLC) is a group of faculty, postdocs, and students who conduct research in computational and theoretical linguistics and natural language processing.  Research areas covered by our group include: 
+
+<ul>
+<li>lexical semantics and the design of lexical databases; </li>
+<li>compositional mechanisms in language; </li>
+<li>multimodal communication between humans and computers; </li>
+<li>interoperability among language resources and natural language processing tools; </li>
+<li>temporal and spatial reasoning; </li>
+<li>determining the source of variation in word meaning as purely semantic or arising from syntax and morphology; </li>
+<li>formal models of speaker-meaning and discourse-level computations; </li>
+<li>extra-linguistic factors that affect truth-conditions, and the way they enter into the meaning computation; </li>
+<li>semantic and pragmatic models of modality and reference; </li>
+<li>semantic annotation and resource development; </li>
+<li>construction and analysis of linguistic corpora; </li>
+<li>discourse structure and relation identification. </li>
+</ul>
+
+We develop theoretically inspired models of linguistic behavior, and employ machine learning, statistical techniques, and finite-state and other rule-based methods to implement the algorithms for these models. 
+
+<hr>
+The LLC is affiliated with the <a href="http://www.cs.brandeis.edu/">Department of Computer Science</a>, the <a href="http://www.brandeis.edu/programs/inderdepartmental/linguistics/">Language and Linguistics Program</a>, and the <a href="http://www.brandeis.edu/departments/computer-science/comp-linguistics/index.html">MA Program in Computational Linguistics</a>. 
+
+<hr>
+Director: <a href="http://www.cs.brandeis.edu/~jamesp/">James Pustejovsky</a>
+<div class="posts-list">
+  {% for post in paginator.posts %}
+  <article class="post-preview">
+    <a href="{{ post.url }}">
+      <h2 class="post-title">{{ post.title }}</h2>
+        {% if post.subtitle %}
+          <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+        {% endif %}
+    </a>
+
+    <p class="post-meta">
+        {% if post.author %}
+          {% if post.email %} 
+            by <a href="mailto:{{ post.email }}"> {{ post.author }} </a> , 
+          {% else %}
+            by {{ post.author }} , 
+          {% endif %}
+        {% endif %}
+    {{ post.date | date: "%B %-d, %Y" }} 
+    </p>
+
+    <div class="post-entry">
+      {{ post.excerpt | strip_html | xml_escape | truncatewords: 50 }}
+      {% assign excerpt_word_count = post.excerpt | number_of_words %}
+      {% if post.content != post.excerpt or excerpt_word_count > 50 %}
+        <a href="{{ post.url }}" class="post-read-more">[Read&nbsp;More]</a>
+      {% endif %}
+    </div>
+
+    {% if post.tags.size > 0 %}
+    <div class="blog-tags">
+      Tags:
+      {{ post.tags | join: ", " }}
+    </div>
+    {% endif %}
+
+   </article>
+  {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<ul class="pager main-pager">
+  {% if paginator.previous_page %}
+  <li class="previous">
+    <a href="{{ paginator.previous_page_path | replace: '//', '/' }}">&larr; Newer Posts</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="next">
+    <a href="{{ paginator.next_page_path | replace: '//', '/' }}">Older Posts &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
+
