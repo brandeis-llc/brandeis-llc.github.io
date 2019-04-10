@@ -50,7 +50,7 @@ navbar-links:
     RESEARCH: "research"
     TEACHING: "teaching"
 
-avatar: "img/llc-logo.jpg"
+avatar: "img/llc-logo.png"
 defaults:
   -
     scope:
