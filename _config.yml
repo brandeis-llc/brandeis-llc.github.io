@@ -49,6 +49,7 @@ navbar-links:
         - Graduates: "graduates"
     RESEARCH: "research"
     TEACHING: "teaching"
+    LINKS: "links"
 
 avatar: "img/llc-logo.png"
 defaults:
