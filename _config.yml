@@ -42,13 +42,11 @@ share-links-active:
   linkedin: false
 
 navbar-links:
-    HOME: ""
     PEOPLE:
         - Faculty: "faculty"
         - Researchers: "researchers"
         - Graduates: "graduates"
     RESEARCH: "research"
-    TEACHING: "teaching"
     LINKS: "links"
 
 avatar: "img/llc-logo.png"
