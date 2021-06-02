@@ -7,6 +7,6 @@ Graduate Student Researchers:
 * Gitit Kehat
 * Marc Verhagen
 * Peter Anick
-* 
+
 Lab Alumni:
 <a href="https://www.nikhilkrishnaswamy.com" target="_blank">Nikhil Krishnaswamy</a>
