@@ -3,7 +3,7 @@
 <br>
 <b>Graduate Student Researchers</b>: 
 * Kyeongmin Rim
-* Kelley Lynch
+* [Kelley Lynch](https://github.com/kelleyl)
 * Jingxuan Tu
 * Gitit Kehat
 * Marc Verhagen
