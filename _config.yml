@@ -43,9 +43,6 @@ share-links-active:
 
 navbar-links:
     PEOPLE: "people"
-        - Faculty: "faculty"
-        - Researchers: "researchers"
-        - Graduates: "graduates"
     RESEARCH: "research"
     LINKS: "links"
 
