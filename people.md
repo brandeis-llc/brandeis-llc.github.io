@@ -1,6 +1,6 @@
-Director: [James Pustejovsky](http://cs.brandeis.edu/~jamesp)
-
-Graduate Student Researchers:
+<b>Director</b>: <br>[James Pustejovsky](http://cs.brandeis.edu/~jamesp)
+<br>
+<b>Graduate Student Researchers</b>:
 * Kyeongmin Rim
 * Kelley Lynch
 * Jingxuan Tu
@@ -8,5 +8,6 @@ Graduate Student Researchers:
 * Marc Verhagen
 * Peter Anick
 
-Lab Alumni:
+<b>Lab Alumni</b>:
+<br>
 <a href="https://www.nikhilkrishnaswamy.com" target="_blank">Nikhil Krishnaswamy</a>
