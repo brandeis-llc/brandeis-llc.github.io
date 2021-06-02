@@ -9,7 +9,8 @@
 * Marc Verhagen
 * Peter Anick
 <br>
+<br>
 <b>Lab Alumni</b>:
 <br>
-<br>
+
 <a href="https://www.nikhilkrishnaswamy.com" target="_blank">Nikhil Krishnaswamy</a>
