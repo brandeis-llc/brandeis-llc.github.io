@@ -42,7 +42,7 @@ share-links-active:
   linkedin: false
 
 navbar-links:
-    PEOPLE:
+    PEOPLE: "people"
         - Faculty: "faculty"
         - Researchers: "researchers"
         - Graduates: "graduates"
