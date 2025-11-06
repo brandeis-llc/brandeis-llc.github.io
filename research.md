@@ -3,8 +3,6 @@ layout: page
 title: Research 
 ---
 
-# Active Projects
-
 ## Institute for Student-AI Teaming
 Lorem ipsum
 * PI: James Pustejovsky
