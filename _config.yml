@@ -45,6 +45,7 @@ navbar-links:
     PEOPLE: "people"
     RESEARCH: "research"
     LINKS: "links"
+    ARCHIVE: "archive"
 
 avatar: "img/llc-logo.png"
 defaults:

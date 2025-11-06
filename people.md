@@ -1,7 +1,8 @@
-<b>Director</b>: <br>[James Pustejovsky](http://cs.brandeis.edu/~jamesp)
+<b>Director</b>:
+* <br>[James Pustejovsky](http://cs.brandeis.edu/~jamesp)
 <br>
 <br>
-<b>Graduate Student Researchers</b>: 
+<b>PhD Student Researchers</b>: 
 * Kyeongmin Rim
 * Kenneth Lai
 * Kelley Lynch
@@ -12,6 +13,10 @@
 * Timothy Obiso
 * Bohan Jiang
 
+<b>Master's Student Researchers</b>
+* Benjamin Lambright
+* Shel Ho
+* Lindsay Dial
 <br>
 <br>
 <b>Lab Alumni</b>:
