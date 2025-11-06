@@ -1,6 +1,9 @@
 * Kyeongmin Rim
+* Kenneth Lai
 * Kelley Lynch
-* Jingxuan Tu
-* Gitit Kehat
-* Marc Verhagen
-* Peter Anick
+* Yifan Zhu
+* Bingyang Ye
+* Yangyang Chen
+* Derrick Kim
+* Timothy Obiso
+* Bohan Jiang

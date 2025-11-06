@@ -6,6 +6,10 @@ subtitle: Brandeis Lab for Linguistics and Computation
 
 # Project Archive
 
+## FACT/TRACE
+Friction and Accountability in Conversational Transactions
+* PI: Nikhil Krishnaswamy and James Pustejovsky 
+
 ## Communicating with Computers 
 
 The Communicating with Computers (CwC) program aims to reimagine computers not only as tools, but also as collaborators working towards common goals. To that end, we are exploring how ideas can be conveyed between humans and computers and vice versa using various communicative modalities like language, gesture, visualization, or action; and how simple ideas can be composed into more complex ideas and interpreted in context. The core of our CwC work has been centered on the modeling of composable object and event semantics in a multimodal real-time simulation environment that serves as the semantic common ground between a human and a computer. Our environment and multimodal semantics facilitates a number of shared tasks, including collaborative structure building, curating biological databases, and the composition of stories and music. We use multimodal simulation as the scaffold for automatic learning of object and event properties with the goal of interacting with robots and and semi-autonomous systems.
