@@ -1,3 +1,9 @@
+---
+layout: page
+title: Brandeis LLC
+subtitle: People 
+---
+
 ### Director
 * [James Pustejovsky](http://cs.brandeis.edu/~jamesp)
 

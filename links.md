@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Brandeis LLC
-subtitle: Brandeis Lab for Linguistics and Computation
+subtitle: Links 
 ---
 
-<a href="https://origen-workshop.github.io/" target="_blank">ORIGen Workshop at COLM 2025</a>
+[ORIGen Workshop at COLM 2025](https://origen-workshop.github.io/)
 <!-- * <a href="https://ethicsatbrandeis.github.io/" target="_blank">Brandeis Ethics in NLP Group</a> -->
 
