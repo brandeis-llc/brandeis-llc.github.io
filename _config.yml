@@ -30,7 +30,7 @@ plugins:
   - jekyll-paginate
 
 author:
-    name: BLLC
+    name: Brandeis LLC
     email: llc.brandeis@gmail.com
     github: brandeis-llc
 
