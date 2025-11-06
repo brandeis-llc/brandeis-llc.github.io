@@ -1,10 +1,7 @@
 ---
 layout: page
-title: Brandeis LLC
-subtitle: Brandeis Lab for Linguistics and Computation
+title: Archive
 ---
-
-# Project Archive
 
 ## FACT/TRACE
 Friction and Accountability in Conversational Transactions

@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Brandeis LLC
-subtitle: Links 
+title: Links 
 ---
 
 [ORIGen Workshop at COLM 2025](https://origen-workshop.github.io/)

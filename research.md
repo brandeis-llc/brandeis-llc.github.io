@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Brandeis LLC
-subtitle: Brandeis Lab for Linguistics and Computation
+title: Research 
 ---
 
 # Active Projects

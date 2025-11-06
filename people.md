@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Brandeis LLC
-subtitle: People 
+title: People 
 ---
 
 ### Director
