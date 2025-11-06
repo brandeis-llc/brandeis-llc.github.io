@@ -1,8 +1,10 @@
-<b>Director</b>:
-* <br>[James Pustejovsky](http://cs.brandeis.edu/~jamesp)
-<br>
-<br>
-<b>PhD Student Researchers</b>: 
+### Director
+* [James Pustejovsky](http://cs.brandeis.edu/~jamesp)
+
+### Postdoctoral Researchers
+* Marc Verhagen
+
+### PhD Student Researchers
 * Kyeongmin Rim
 * Kenneth Lai
 * Kelley Lynch
@@ -10,18 +12,20 @@
 * Bingyang Ye
 * Yangyang Chen
 * Derrick Kim
-* Timothy Obiso
+* [Timothy Obiso](https://timothyobiso.github.io)
 * Bohan Jiang
 
-<b>Master's Student Researchers</b>
+### Master's Student Researchers
 * Benjamin Lambright
 * Shel Ho
 * Lindsay Dial
-<br>
-<br>
-<b>Lab Alumni</b>:
-<br>
-<a href="https://www.nikhilkrishnaswamy.com" target="_blank">Nikhil Krishnaswamy</a>
+
+
+### Visiting Researchers
+* Brad Goodman
+
+### Lab Alumni
+* [Nikhil Krishnaswamy](https://www.nikhilkrishnaswamy.com/)
 * Marc Verhagen
 * Ben Wellner
 * Gitit Kehat
